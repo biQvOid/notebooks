@@ -1,0 +1,12 @@
+*.parquet
+*.faiss
+*.npy
+*.pickle
+*.pth
+*.cbm
+.ipynb_checkpoints/
+runs/
+catboost_info/
+__pycache__/
+data/
+seq_recs/
